@@ -19,7 +19,7 @@ const App = () => {
                 <CommentDetail 
                     author="Sam"
                     time="Today at 07.31"
-                    message="Gooday mate"
+                    message="Good day"
                     avatar={faker.image.avatar()}
 
                 />
